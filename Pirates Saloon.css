@@ -89,7 +89,7 @@ a.active,a:hover{
   }
 }
 section{
-  background:url() no-repeat;
+  background:url("C:\Users\kavin\Downloads\saloon.avif") no-repeat;
     background-size:cover;
     height:calc(100vh-80px);
 
